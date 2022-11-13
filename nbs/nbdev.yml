@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "nbdev-hello"
+  site-url: "https://mathsavvy.github.io/nbdev-hello"
+  description: "asd"
+  repo-branch: main
+  repo-url: "https://github.com/mathsavvy/nbdev-hello"
